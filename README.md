@@ -65,7 +65,7 @@ This project is licensed under the MIT License.
 
 ## 📞 Contact
 For any issues or suggestions, feel free to reach out:
-- **GitHub:** (https://github.com/muzaffar401)
+- **GitHub:** https://github.com/muzaffar401
 - **Email:** ma9400667@gmail.com
 
 ---
